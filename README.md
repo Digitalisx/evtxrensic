@@ -10,6 +10,7 @@
     <a href="https://gitter.im/EVTXRENSIC/Lobby?source=orgpage">
         <img src="https://badges.gitter.im/gitterHQ/gitter.png">
     </a>
+    <img src="https://img.shields.io/badge/Licence-MIT-blue.svg">
 </p>
 
 
